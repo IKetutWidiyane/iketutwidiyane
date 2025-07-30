@@ -32,10 +32,16 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Ketut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=radical" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=radical" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
