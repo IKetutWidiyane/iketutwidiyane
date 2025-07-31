@@ -27,17 +27,16 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; color: white;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKetutWidiyane&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IKetutWidiyane&theme=dark&border_radius=10&mode=weekly" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=dark&langs_count=6" alt="Top Langs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 - 💼 Portfolio: *coming soon...*
-
