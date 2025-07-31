@@ -27,16 +27,14 @@
 ---
 
 ### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=radical" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=radical" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; color: white;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKetutWidiyane&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
 
 ---
 
