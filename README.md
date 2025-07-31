@@ -1,49 +1,58 @@
-### 👋 Hi there! I'm Ketut Widiyane
+### 𝗛𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝗞𝗲𝘁𝘂𝘁 𝗪𝗶𝗱𝗶𝘆𝗮𝗻𝗲 ✨
 
-💻 Front-End Developer | 🎓 Information System Student  
-🎯 Passionate about building modern, responsive, and user-friendly web interfaces
+𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝗿𝗻𝗲𝗿 | 𝗨ꜱɪ ꜱᴛᴜᴅᴇɴᴛ | 𝗨𝗜/𝗨𝗫 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁
 
----
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 🌟 About Me
-- 🔭 I’m working on web projects using **React** & **Tailwind CSS**
-- 🌱 Currently learning **Node.js**, **Express**, and **MySQL**
-- 💬 Let’s talk about UI/UX, frontend architecture, or design systems
+🌐 **About Me**  
+Passionate about crafting pixel-perfect interfaces with clean code. Currently exploring the full-stack world while maintaining my design-first approach.
 
----
+🚀 **Current Focus**  
+▸ Building responsive web apps with **React** + **Tailwind**  
+▸ Learning **Node.js/Express** backend systems  
+▸ Designing accessible user experiences  
 
-### 🚀 Tech Stack & Tools
+🛠️ **Tech Toolkit**
 
-#### 💻 Languages & Frameworks
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+```diff
++ Frontend:  React • JavaScript • HTML5 • CSS3 • Tailwind • Laravel
++ Design:    Figma • Adobe XD • Responsive Design
++ Tools:     VSCode • Git • Postman • Netlify
++ Learning:  Node.js • Express • MySQL • GraphQL
+📈 GitHub Analytics
 
-#### 🛠️ Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=react-dark&hide_border=true&area=true
 
----
+<table width="100%"> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"/> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=radical&bg_color=0d1117&hide_border=true"/> </td> </tr> </table>
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=radical" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=radical" width="400"/>
-    </td>
-  </tr>
-</table>
+📮 Let's Collaborate
+https://img.shields.io/badge/-Connect_Professionally-0A66C2?style=flat&logo=linkedin
+https://img.shields.io/badge/-Email_Me-D14836?style=flat&logo=gmail&logoColor=white
+https://img.shields.io/badge/-View_Portfolio-FF7139?style=flat&logo=vercel&logoColor=white
 
----
+🌟 Fun Fact: I balance coding with [your hobby/interest]!
 
-### 📫 Let's Connect
-- 💼 Portfolio: *coming soon...*
+text
+
+Key improvements:
+1. **Modern Typography**: Using sans-serif friendly formatting
+2. **Visual Hierarchy**: Clear section separation with lines
+3. **Unique Elements**:
+   - Code-block style tech stack
+   - Interactive activity graph
+   - Badges with hover effects
+4. **Professional Tone**: More concise, achievement-focused language
+5. **Dark Theme**: Better for developer eyes with dark backgrounds
+6. **Personal Touch**: Added fun fact section
+
+To implement:
+1. Replace placeholder links (YOUR_LINKEDIN, etc.)
+2. Add your actual hobby in the fun fact
+3. Consider adding a subtle background pattern via GitHub README special tricks
+
+Would you like me to suggest any specific:
+- Portfolio design ideas?
+- Project showcase section?
+- Or any particular focus area enhancement?
+New chat
