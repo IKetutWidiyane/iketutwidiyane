@@ -12,7 +12,6 @@
 - 💬 Let’s talk about UI/UX, frontend architecture, or design systems
 
 ---
-## 🚀 Tech Stack & Tools
 
 ## 🚀 Tech Stack & Tools
 
@@ -25,8 +24,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github" height="40" />
 </p>
-
-
 
 ---
 
