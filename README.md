@@ -1,4 +1,3 @@
-[media pointer="file-service://file-P5JYnofoECofqPxG31MvH3"]
 ### 👋 Hi there! I'm Ketut Widiyane
 
 💻 Front-End Developer | 🎓 Information System Student  
