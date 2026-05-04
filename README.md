@@ -44,12 +44,15 @@
 
 ---
 
+---
+
 ### 📊 GitHub Profile Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=radical&rank_icon=github&border_radius=12" width="48%" alt="Ketut's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=radical&border_radius=12" width="48%" alt="Ketut's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=dark&rank_icon=github&border_radius=12" width="48%" alt="Ketut's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=dark&border_radius=12" width="48%" alt="Ketut's Top Languages" />
 </p>
+
 
 ---
 
