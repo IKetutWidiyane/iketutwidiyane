@@ -41,24 +41,49 @@
     <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github,npm" height="40" />
   </a>
 </p>
----
-<div align="center">
-  <a href="https://github.com/IKetutWidiyane">
-    <img height="240" src="https://github-readme-stats.up.railway.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=flat&border_radius=12#gh-light-mode-only" alt="Ketut's Language stats" />
-  </a>
-  <a href="https://github.com/IKetutWidiyane">
-    <img height="240" src="https://github-readme-stats.up.railway.app/api?username=IKetutWidiyane&show_icons=true&theme=flat&border_radius=12#gh-light-mode-only" alt="Ketut's Github stats" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/IKetutWidiyane">
-    <img height="240" src="https://github-readme-stats.up.railway.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=dark&border_radius=12#gh-dark-mode-only" alt="Ketut's Language stats" />
-  </a>
-  <a href="https://github.com/IKetutWidiyane">
-    <img height="240" src="https://github-readme-stats.up.railway.app/api?username=IKetutWidiyane&show_icons=true&theme=dark&border_radius=12#gh-dark-mode-only" alt="Ketut's Github stats" />
-  </a>
-</div>
+
+---
+
+## 💫 About Me
+
+🎓 Information Systems Student (Semester 5)  
+💻 Passionate Full-Stack Developer & IoT Enthusiast  
+🚀 Focused on building secure, scalable, and user-friendly applications  
+
+- 🔭 Currently working on: **InteHR (HR Management System)**  
+- 🌱 Currently learning: **Backend Optimization, Machine Learning (XGBoost), IoT Systems**  
+- 🎯 Interests: **System Design, API Development, UI/UX Engineering**  
+- 💬 Ask me about: React, Tailwind, REST API, IoT  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,laravel,mysql" />
+</p>
+
+### 🔌 IoT & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,npm" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 ---
 ### 🤝 Let's Connect & Collaborate
 
