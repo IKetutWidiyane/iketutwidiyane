@@ -41,24 +41,25 @@
     <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github,npm" height="40" />
   </a>
 </p>
-
 ---
+<div align="center">
+  <a href="https://github.com/IKetutWidiyane">
+    <img height="240" src="https://github-readme-stats.up.railway.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=flat&border_radius=12#gh-light-mode-only" alt="Ketut's Language stats" />
+  </a>
+  <a href="https://github.com/IKetutWidiyane">
+    <img height="240" src="https://github-readme-stats.up.railway.app/api?username=IKetutWidiyane&show_icons=true&theme=flat&border_radius=12#gh-light-mode-only" alt="Ketut's Github stats" />
+  </a>
+</div>
 
-### 📊 GitHub Profile Dynamics
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=dark&rank_icon=github&border_radius=12" alt="Ketut's GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=dark&border_radius=12" alt="Ketut's Top Languages" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <a href="https://github.com/IKetutWidiyane">
+    <img height="240" src="https://github-readme-stats.up.railway.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=dark&border_radius=12#gh-dark-mode-only" alt="Ketut's Language stats" />
+  </a>
+  <a href="https://github.com/IKetutWidiyane">
+    <img height="240" src="https://github-readme-stats.up.railway.app/api?username=IKetutWidiyane&show_icons=true&theme=dark&border_radius=12#gh-dark-mode-only" alt="Ketut's Github stats" />
+  </a>
+</div>
 ---
-
 ### 🤝 Let's Connect & Collaborate
 
 <p align="left">
