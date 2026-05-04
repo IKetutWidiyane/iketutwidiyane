@@ -1,20 +1,21 @@
 # Hi there, I'm Ketut Widiyane! <img src="https://media.giphy.com/media/hvRJCLFzcasrC/giphy.gif" width="28">
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Information%20Systems-slate-64748b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Enthusiast-10b981?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Information%20Systems-64748b?style=for-the-badge" />
 </p>
 
-> A passionate Front-End Developer and Information Systems student focused on crafting modern, responsive, and user-centered digital experiences.
+> A versatile Full-Stack Developer, IoT Enthusiast, and Information Systems student. I bridge the gap between hardware and software by crafting modern web experiences, robust backend architectures, and smart connected solutions.
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Current Focus:** Building production-ready web applications using **React**, **Next.js**, and **Tailwind CSS**.
-- 🌱 **Learning Journey:** Expanding my skills into backend development with **Node.js**, **Express**, and **MySQL**.
-- 🎨 **Interests:** UI/UX design patterns, scalable frontend architectures, and component-driven design systems.
-- 💬 **Ask Me About:** Frontend performance, styling strategies, or collaborating on open-source projects.
+- 🔭 **Current Focus:** Crafting production-grade web applications using **React**, **Next.js**, and **Tailwind CSS**.
+- 🌱 **Learning & Exploring:** Deepening backend systems with **Python**, **Node.js**, **Express**, and building **IoT** smart automation.
+- 🎨 **Interests:** Scalable system design, database optimization, UI/UX consistency, and hardware integration.
+- 💬 **Ask Me About:** Frontend/Backend engineering, styling systems, or microcontrollers.
 
 ---
 
@@ -23,14 +24,21 @@
 #### 💻 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,laravel,python,nodejs,express,mysql" height="40" />
+  </a>
+</p>
+
+#### 🌐 Internet of Things (IoT) & Hardware
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" height="40" />
   </a>
 </p>
 
 #### 🛠️ Tools & Environments
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github,npm" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github,npm" height="40" />
   </a>
 </p>
 
@@ -48,10 +56,10 @@
 ### 🤝 Let's Connect & Collaborate
 
 <p align="left">
-  
-  <a href="mailto:iketutwiddiane09@gmail.com" target="_blank">
+  <a href="mailto:iketutwidiane09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
 </p>
 
 <p>
