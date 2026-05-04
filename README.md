@@ -44,8 +44,6 @@
 
 ---
 
----
-
 ### 📊 GitHub Profile Dynamics
 
 <p align="center">
