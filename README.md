@@ -6,16 +6,16 @@
   <img src="https://img.shields.io/badge/Information%20Systems-64748b?style=for-the-badge" />
 </p>
 
-> A versatile Full-Stack Developer, IoT Enthusiast, and Information Systems student. I bridge the gap between hardware and software by crafting modern web experiences, robust backend architectures, and smart connected solutions.
+> A passionate **Full-Stack Developer**, **IoT Enthusiast**, and **Information Systems** student. I love building secure, functional, and user-centric web applications while exploring hardware-software integrations.
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Current Focus:** Crafting production-grade web applications using **React**, **Next.js**, and **Tailwind CSS**.
-- 🌱 **Learning & Exploring:** Deepening backend systems with **Python**, **Node.js**, **Express**, and building **IoT** smart automation.
-- 🎨 **Interests:** Scalable system design, database optimization, UI/UX consistency, and hardware integration.
-- 💬 **Ask Me About:** Frontend/Backend engineering, styling systems, or microcontrollers.
+- 🔭 **Working On:** Modern enterprise systems like **InteHR** (HR Management System) and various digital solutions.
+- 🌱 **Learning & Exploring:** Expanding backend efficiency using **Python**, **Node.js (Express)**, and advanced **IoT & Microcontrollers**.
+- 🎨 **Interests:** Scalable frontend architectures, clean API design, database management, and UI/UX engineering.
+- 💬 **Ask Me About:** React, Tailwind CSS, RESTful APIs, or IoT hardware troubleshooting.
 
 ---
 
@@ -24,14 +24,14 @@
 #### 💻 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,laravel,python,nodejs,express,mysql" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,laravel,python,nodejs,express,mysql,php" height="40" />
   </a>
 </p>
 
 #### 🌐 Internet of Things (IoT) & Hardware
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" height="40" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp" height="40" />
   </a>
 </p>
 
@@ -56,10 +56,10 @@
 ### 🤝 Let's Connect & Collaborate
 
 <p align="left">
-  <a href="mailto:iketutwidiane09@gmail.com" target="_blank">
+  <a href="mailto:iketutwiddiane09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
+ 
 </p>
 
 <p>
