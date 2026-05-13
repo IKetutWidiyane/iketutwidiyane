@@ -45,19 +45,6 @@
 
 ---
 
-## 💫 About Me
-
-🎓 Information Systems Student (Semester 5)  
-💻 Passionate Full-Stack Developer & IoT Enthusiast  
-🚀 Focused on building secure, scalable, and user-friendly applications  
-
-- 🔭 Currently working on: **InteHR (HR Management System)**  
-- 🌱 Currently learning: **Backend Optimization, Machine Learning (XGBoost), IoT Systems**  
-- 🎯 Interests: **System Design, API Development, UI/UX Engineering**  
-- 💬 Ask me about: React, Tailwind, REST API, IoT  
-
----
-
 ## 🚀 Tech Stack
 
 ### 💻 Languages & Frameworks
