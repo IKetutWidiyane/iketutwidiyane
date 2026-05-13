@@ -45,25 +45,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,laravel,mysql" />
-</p>
-
-### 🔌 IoT & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
-</p>
-
-### 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,npm" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
