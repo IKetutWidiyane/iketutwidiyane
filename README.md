@@ -47,9 +47,9 @@
 ## 📊 My Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=visual-studio-code&hide_border=true" height="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=380" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=visual-studio-code&hide_border=true&card_width=420" height="200"/>
 </p>
 
 ---
