@@ -42,7 +42,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🔥 My Stats :
@@ -52,7 +51,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=490" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=495" height="180"/>
 </p>
 
 ---
