@@ -46,9 +46,11 @@
 
 ## 📊 My Stats :
 
-| | |
-| --- | --- |
-| <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true" height="185"/> | <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=350" height="185"/> |
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=380" height="180"/>
+</p>
 
 ---
 ### 🤝 Let's Connect & Collaborate
