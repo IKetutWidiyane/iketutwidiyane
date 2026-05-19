@@ -45,11 +45,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 My Stats :
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IKetutWidiyane&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKetutWidiyane&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=490" height="180"/>
 </p>
 
 ---
