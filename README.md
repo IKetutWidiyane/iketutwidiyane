@@ -44,15 +44,11 @@
 
 ---
 
-## 🔥 My Stats :
+## 📊 My Stats :
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKetutWidiyane&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=495" height="180"/>
-</p>
+| | |
+| --- | --- |
+| <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true" height="185"/> | <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&card_width=350" height="185"/> |
 
 ---
 ### 🤝 Let's Connect & Collaborate
