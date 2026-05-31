@@ -12,7 +12,6 @@
 
 ### 💫 About Me
 
-- 🔭 **Working On:** Modern enterprise systems like **InteHR** (HR Management System) and various digital solutions.
 - 🌱 **Learning & Exploring:** Expanding backend efficiency using **Python**, **Node.js (Express)**, and advanced **IoT & Microcontrollers**.
 - 🎨 **Interests:** Scalable frontend architectures, clean API design, database management, and UI/UX engineering.
 - 💬 **Ask Me About:** React, Tailwind CSS, RESTful APIs, or IoT hardware troubleshooting.
