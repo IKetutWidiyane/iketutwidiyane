@@ -1,4 +1,4 @@
-# Hi there, I'm Ketut Widiyane! <img src="https://media.giphy.com/media/hvRJCLFzcasrC/giphy.gif" width="28">
+# Hi there, I'm Ketut Widiyane! 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
