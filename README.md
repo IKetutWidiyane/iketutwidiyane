@@ -65,5 +65,5 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat-square" alt="Portfolio" />
+  <img src="https://ketutwidiyane.vercel.app" alt="Portfolio" />
 </p>
