@@ -62,8 +62,8 @@
   <a href="https://www.linkedin.com/in/iketutwidiyane/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
 
-<p>
-  <img src="https://ketutwidiyane.vercel.app" alt="Portfolio" />
+  <a href="https://ketutwidiyane.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
