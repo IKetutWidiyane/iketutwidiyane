@@ -3,10 +3,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT%20Enthusiast-10b981?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Information%20Systems-64748b?style=for-the-badge" />
 </p>
 
-> A passionate **Full-Stack Developer**, **IoT Enthusiast**, and **Information Systems** student. I love building secure, functional, and user-centric web applications while exploring hardware-software integrations.
+> A passionate **Full-Stack Developer**, **IoT Enthusiast**, and **Machine-Learning Enthusiast** . I love building secure, functional, and user-centric web applications while exploring hardware-software integrations.
 
 ---
 
