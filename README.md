@@ -10,41 +10,11 @@
 
 ---
 
-### 💫 About Me
-
-- 🧠 **Learning & Exploring:** Optimizing backend efficiency using **Python**, **Node.js (Express)**, and advancing my skills in **IoT & Microcontrollers**.
-- 🎨 **Interests:** Scalable frontend architectures, clean API design, database management, and UI/UX engineering.
-- 💬 **Ask Me About:** React, Tailwind CSS, RESTful APIs, Webflow, or IoT hardware troubleshooting.
-
----
-
 ### 🚀 Tech Stack & Tools
 
-#### 💻 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,webflow,laravel,python,nodejs,express,php" height="40" />
-  </a>
-</p>
-
-#### 🗄️ Databases & ORM
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" height="40" />
-  </a>
-</p>
-
-#### 🌐 Internet of Things (IoT) & Hardware
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp" height="40" />
-  </a>
-</p>
-
-#### 🛠️ Tools & Environments
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github,npm" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,webflow,php,laravel,nodejs,express,python,mysql,postgres,prisma,arduino,c,cpp,git,github,vscode,figma,postman,npm" />
   </a>
 </p>
 
