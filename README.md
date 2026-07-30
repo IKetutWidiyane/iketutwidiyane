@@ -29,10 +29,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
----
 ## 🤝 **Let's Connect & Collaborate**
 
-<p align="center">
+<p align="left">
   <a href="mailto:iketutwiddiane09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -42,11 +41,4 @@
   <a href="https://ketutwidiyane.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/IKetutWidiyane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/ketut_wdn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
----
