@@ -19,15 +19,29 @@
 </p>
 
 ---
-
-## 📊 My Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=visual-studio-code&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="190"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=visual-studio-code&hide_border=true&card_width=420" height="190"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&layout=compact&card_width=420" height="190"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKetutWidiyane&theme=tokyonight&hide_border=true" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IKetutWidiyane&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IKetutWidiyane&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 ---
 
 ### 🤝 Let's Connect & Collaborate
