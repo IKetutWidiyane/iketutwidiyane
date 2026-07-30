@@ -26,6 +26,9 @@
     <td><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&layout=compact"/></td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IKetutWidiyane/IKetutWidiyane/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 ##🤝 Let's Connect & Collaborate
 
 <p align="left">
