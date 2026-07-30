@@ -27,7 +27,7 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IKetutWidiyane/IKetutWidiyane/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 ##🤝 Let's Connect & Collaborate
 
