@@ -18,7 +18,6 @@
   </a>
 </p>
 
----
 ## 📊 My GitHub Stats
 
 <table align="center">
@@ -27,8 +26,7 @@
     <td><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&layout=compact"/></td>
   </tr>
 </table>
----
-### 🤝 Let's Connect & Collaborate
+##🤝 Let's Connect & Collaborate
 
 <p align="left">
   <a href="mailto:iketutwiddiane09@gmail.com" target="_blank">
