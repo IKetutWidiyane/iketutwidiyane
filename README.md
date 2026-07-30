@@ -1,4 +1,4 @@
-# Hi there, I'm Ketut Widiyane! 👋
+## Hi there, I'm Ketut Widiyane! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,14 +22,29 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true"/></td>
-    <td><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&layout=compact"/></td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api?username=IKetutWidiyane&show_icons=true&theme=tokyonight&hide_border=true"
+        height="170"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IKetutWidiyane&theme=tokyonight&hide_border=true&layout=compact"
+        height="170"
+      />
+    </td>
   </tr>
 </table>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=tokyo-night&hide_border=true"
+    width="90%"
+  />
 </p>
-## 🤝 **Let's Connect & Collaborate**
+
+## 🤝 Let's Connect & Collaborate
 
 <p align="left">
   <a href="mailto:iketutwiddiane09@gmail.com" target="_blank">
