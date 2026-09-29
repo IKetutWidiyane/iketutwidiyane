@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 <table align="center">
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <p align="left">
   <a href="mailto:iketutwiddiane09@gmail.com" target="_blank">
