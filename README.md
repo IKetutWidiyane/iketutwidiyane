@@ -37,13 +37,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=IKetutWidiyane&theme=tokyo-night&hide_border=true"
-    width="90%"
-  />
-</p>
-
 ## 🤝 Let's Connect & Collaborate
 
 <p align="left">
